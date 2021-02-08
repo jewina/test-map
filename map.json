@@ -113,12 +113,6 @@
  "nextlayerid":17,
  "nextobjectid":1,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"openWebsite",
-         "type":"string",
-         "value":"https:\/\/www.wikipedia.de\/"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
